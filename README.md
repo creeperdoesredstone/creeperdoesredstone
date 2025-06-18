@@ -1,5 +1,7 @@
 # 👋 Hello there, I'm creeperdoesredstone!
-I am a keen developer interested in **creating custom programming languages, mathematics, and computer architecture**.
+I am a keen developer interested in creating custom programming languages, exploring mathematics, and understanding computer architecture.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeperdoesredstone&layout=compact)
 
 ## 💻 What I Do
 ### Software Development

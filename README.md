@@ -25,4 +25,5 @@ I am a keen developer interested in creating custom programming languages, explo
 
 ## ❓ Other
 - I am a Roux user (my PB is 31s)
-- I made a (rather unoptimized) 3D renderer but accidentally deleted it
+- I made a (rather unoptimized) 3D renderer, but accidentally deleted it
+- I make chiptune music and post them on Newgrounds

@@ -12,7 +12,7 @@ I am a keen developer interested in creating custom programming languages, explo
 - I am the creator of `Xenon`, a Minecraft computer with an architecture similar to the HACK computer of Nand2Tetris.
 
 ## 🛠️ Tech Stack
-- **Languages**: `Python` | `C++` | `X#` | `GML` | `GDScript`
+- **Languages**: `Python` | `C++` | `X#` | `GML` | `GDScript` | `JS`
 - **Tools**: `VS Code` | `GameMaker Studio` | `Godot`
 
 ## 💡 My Interests
